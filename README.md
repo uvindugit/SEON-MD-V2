@@ -1,7 +1,4 @@
 <div align="center">
-SEON-MD WHATSAPP USER BOT CREATED BY Sadiya Tech & Sanju Bro
-
-<div align="center">
     <b>SEON-MS USER BOT</b>
 
 
@@ -61,4 +58,5 @@ SEON-MD WHATSAPP USER BOT CREATED BY Sadiya Tech & Sanju Bro
 
 
 
-***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
+<div align="center">
+SEON-MD WHATSAPP USER BOT CREATED BY Sadiya Tech & Sanju Bro
