@@ -1,1 +1,66 @@
-function _0x599d(_0x41aebd,_0x42c079){const _0x26fe4b=_0x26fe();return _0x599d=function(_0x599de5,_0x44602d){_0x599de5=_0x599de5-0x1c4;let _0x1bc797=_0x26fe4b[_0x599de5];return _0x1bc797;},_0x599d(_0x41aebd,_0x42c079);}const _0x378c11=_0x599d;(function(_0x2e1e4a,_0x4f298e){const _0x3a4753=_0x599d,_0xc3fdfc=_0x2e1e4a();while(!![]){try{const _0x555afb=parseInt(_0x3a4753(0x1db))/0x1+parseInt(_0x3a4753(0x1d2))/0x2+-parseInt(_0x3a4753(0x1d1))/0x3+parseInt(_0x3a4753(0x1d7))/0x4+parseInt(_0x3a4753(0x1e3))/0x5*(parseInt(_0x3a4753(0x1cd))/0x6)+parseInt(_0x3a4753(0x1ce))/0x7*(parseInt(_0x3a4753(0x1de))/0x8)+-parseInt(_0x3a4753(0x1df))/0x9;if(_0x555afb===_0x4f298e)break;else _0xc3fdfc['push'](_0xc3fdfc['shift']());}catch(_0x55d4db){_0xc3fdfc['push'](_0xc3fdfc['shift']());}}}(_0x26fe,0x60fce));const {readEnv}=require('../lib/database'),{cmd,commands}=require(_0x378c11(0x1da)),{runtime}=require(_0x378c11(0x1e0)),os=require('os');function _0x26fe(){const _0x31a86e=['1669648vYCVBH','17583633qOCtnb','../lib/functions','sendMessage','botinfo','90TCLndB','\x20ms*\x20','alive','*⏱️\x20Run\x20:-*\x20','round','getTime','hostname','*Pong*\x20\x20*','general','uptime','160824VxZXzq','21pwvanu','main','```Ping!!!```','1401582YKDrLC','1429200yxQwzt','ALIVE_MSG','\x0a*👥\x20Owners\x20:-*\x20Sanju\x20Bro\x20&\x20Sadiya\x20Tech\x0a*🎉\x20Version\x20:-*\x201.0.0','To\x20check\x20ping','system','2449984mVvjPi','Check\x20bot\x20online\x20or\x20no.','log','../command','382507xKtTWL','memoryUsage','ping'];_0x26fe=function(){return _0x31a86e;};return _0x26fe();}cmd({'pattern':_0x378c11(0x1c5),'desc':_0x378c11(0x1d8),'category':_0x378c11(0x1cf),'filename':__filename},async(_0x4165f0,_0x21a07c,_0x53b159,{from:_0x517cb3,quoted:_0x2ab933,body:_0xbaff43,isCmd:_0x5480c1,command:_0x304399,args:_0x12bf9d,q:_0x2ab740,isGroup:_0x498dea,sender:_0x49be4a,senderNumber:_0x1e3a2d,botNumber2:_0x33286c,botNumber:_0x35fe55,pushname:_0x152518,isMe:_0x3cda94,isOwner:_0x52c28b,groupMetadata:_0x4e4670,groupName:_0x122346,participants:_0x47db9a,groupAdmins:_0x16cd08,isBotAdmins:_0x5c6f46,isAdmins:_0x4efcfe,reply:_0x24c986})=>{const _0xa9471c=_0x378c11;try{const _0xd2de3e=await readEnv();return await _0x4165f0[_0xa9471c(0x1e1)](_0x517cb3,{'image':{'url':_0xd2de3e['ALIVE_IMG']},'caption':_0xd2de3e[_0xa9471c(0x1d3)]},{'quoted':_0x21a07c});}catch(_0x5d3227){console[_0xa9471c(0x1d9)](_0x5d3227),_0x24c986(''+_0x5d3227);}}),cmd({'pattern':_0x378c11(0x1d6),'alias':['s',_0x378c11(0x1e2)],'desc':_0x378c11(0x1d6),'category':_0x378c11(0x1cf),'filename':__filename},async(_0x236cdc,_0x2ebd5d,_0x354aee,{from:_0x192517,quoted:_0x17c109,body:_0x4e0b65,isCmd:_0x474606,command:_0x2009f1,args:_0x1b690e,q:_0x21d519,isGroup:_0x595dcb,sender:_0x1bb5d3,senderNumber:_0xd3dec2,botNumber2:_0x493791,botNumber:_0x4c6280,pushname:_0x1d9136,isMe:_0x564960,isOwner:_0x562238,groupMetadata:_0x713c51,groupName:_0x54fa00,participants:_0x1bcca3,groupAdmins:_0x1e9acf,isBotAdmins:_0x5b5c80,isAdmins:_0x28cbf3,reply:_0x18d726})=>{const _0x3f52e5=_0x378c11;try{let _0x16f584=_0x3f52e5(0x1c6)+runtime(process[_0x3f52e5(0x1cc)]())+'\x0a*🗃️\x20Memory\x20:-*\x20'+(process[_0x3f52e5(0x1dc)]()['heapUsed']/0x400/0x400)['toFixed'](0x2)+'MB\x20/\x20'+Math[_0x3f52e5(0x1c7)](require('os')['totalmem']/0x400/0x400)+'MB\x0a*📍\x20Platform\x20:-*\x20'+os[_0x3f52e5(0x1c9)]()+_0x3f52e5(0x1d4);await _0x236cdc[_0x3f52e5(0x1e1)](_0x192517,{'text':_0x16f584},{'quoted':_0x2ebd5d});}catch(_0x3f26e2){console[_0x3f52e5(0x1d9)](_0x3f26e2),_0x18d726(''+_0x3f26e2);}}),cmd({'pattern':_0x378c11(0x1dd),'react':'🚀','desc':_0x378c11(0x1d5),'category':_0x378c11(0x1cb),'filename':__filename},async(_0x519f53,_0x475a93,_0x238cdd,{from:_0xa36e71,quoted:_0x33d030,body:_0x301d47,isCmd:_0x506a29,command:_0x5b41fa,args:_0xddc4e6,q:_0x23ab29,isGroup:_0x4294da,sender:_0x3aa90a,senderNumber:_0x3093c5,botNumber2:_0xa407e3,botNumber:_0xc00651,pushname:_0x2ed370,isMe:_0x1752c1,isOwner:_0x5850fa,groupMetadata:_0x236a70,groupName:_0x5496f3,participants:_0x3c9df8,groupAdmins:_0x2a596d,isBotAdmins:_0x4c795d,isAdmins:_0x3ffa34,reply:_0xed0c23})=>{const _0x410c18=_0x378c11;try{var _0x4adafe=new Date()[_0x410c18(0x1c8)]();const {key:_0x313a58}=await _0x519f53[_0x410c18(0x1e1)](_0xa36e71,{'text':_0x410c18(0x1d0)});var _0x174c67=new Date()[_0x410c18(0x1c8)]();return await _0x519f53[_0x410c18(0x1e1)](_0xa36e71,{'text':_0x410c18(0x1ca)+(_0x174c67-_0x4adafe)+_0x410c18(0x1c4),'edit':_0x313a58});}catch(_0xbe8538){console['log'](_0xbe8538),_0xed0c23(''+_0xbe8538);}});
+var { connectdb,input,get, updb,updfb } = require("../lib/githubdb")
+const {cmd , commands} = require('../command')
+const {runtime} = require('../lib/functions')
+const os = require("os")
+
+//===============================ALIVE======================================
+cmd({
+    pattern: "alive",
+    desc: "Check bot online or no.",
+    category: "main",
+    filename: __filename
+},
+async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+try{
+
+return await conn.sendMessage(from,{image: {url: await get("ALIVE_IMG")},caption: await get("ALIVE_MSG")},{quoted: mek})
+}catch(e){
+console.log(e)
+reply(`${e}`)
+}
+})
+
+//=============================SYSTEM=========================================
+cmd({
+    pattern: "system",
+	alias: ["s","botinfo"],
+    desc: "system",
+    category: "main",
+    filename: __filename
+},
+async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+try{
+
+let msg66 = `*⏱️ Run :-* ${runtime(process.uptime())}
+*🗃️ Memory :-* ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
+*📍 Platform :-* ${os.hostname()}
+*👥 Owners :-* Sanju Bro & Sadiya Tech
+*🎉 Version :-* 1.0.0`
+
+await conn.sendMessage(from,{text:msg66},{quoted:mek})
+
+}catch(e){
+console.log(e)
+reply(`${e}`)
+}
+})
+
+//======================================PING===========================
+cmd({
+    pattern: "ping",
+    react : "🚀",
+    desc: "To check ping",
+    category: "general",
+    filename: __filename,
+},
+async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+try{
+var inital = new Date().getTime();
+const { key } = await conn.sendMessage(from, {text: '```Ping!!!```'});
+var final = new Date().getTime();
+//await Secktor.sleep(1000)
+return await conn.sendMessage(from, {text: '*Pong*  *' + (final - inital) + ' ms* ', edit: key});
+} catch (e) {
+console.log(e)
+reply(`${e}`)
+}});
