@@ -53,10 +53,46 @@
 
 <h2 align="center"> 
 </h2>
+# Workflow Deploy Code 👇
+
+
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
 
 `Thanks To, Sanjuwa 😅`
-
-
 
 <div align="center">
 SEON-MD WHATSAPP USER BOT CREATED BY Sadiya Tech & Sanju Bro
