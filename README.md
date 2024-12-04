@@ -1,43 +1,63 @@
-<div class = "repo" align = "center">
- 
-<a href = "#">
-<img src = "https://telegra.ph/file/3cef367ebfc7a45c10595.jpg"  width="300" height="300">
-</img>
- SEON MD WHATSAPP BOT
+```NETHU-MD WHATSAPP USER BOT CREATED BY MR NETHMIKA OFC```
+
+<div align="center">
+    <b>NETHU-MD USER BOT</b>
+
+
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=NETHU+MD;CREATED+BY+NETHU_MIND;Nethmika" alt="Typing SVG" /></a>   
+</p> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <p align="center">
+<a href="https://github.com/Nethmikakaushalyaherath">
+    <img src="https://telegra.ph/file/7f0d7a04a30a602307e3d.jpg" width="700px">
+  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+`NETHU-MD` whatsapp bot is,
+
+      NETHU-MD යනු ඔබට පහසුවෙන් හැසිරවිය හැකි Bot වරයෙකි.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Sadiya-Tech-Sanju-Bro-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/sadiya44?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/sadiya44/SADIYA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sadiya44/SADIYA-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/sadiya44/SADIYA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sadiya44/SADIYA-MD?color=yellow&style=flat-square"></a>
-  
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sadiya44/SADIYA-MD/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/sadiya44/SADIYA-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
-</p>
 
-# 
+  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VagCogPGufJ3kZWjsW3A" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <p align="center">
+<a href="https://github.com/Nethmikakaushalyaherath/NETHU-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+      
+<div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-SEON MD whatsapp bot is,
-A very good bot that you can use in whatsapp.
+<a href="https://pair-web-public.koyeb.app//"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
-# 
-* 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left">
-<a href="https://github.com/sadiya44/SADIYA-MD/fork"><img align="center" src="https://telegra.ph/file/0a5db285734c3da78ca06.jpg" alt="Fork and deploy" height="35" width="155" /></a>
+### DEPLOY HEROKU
 
-# 
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nethmikakaushalyaherath/NETHU-MD)
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](sadiya)
-#
-+  DEPLOY STEPS
-# 
-1. Fork this repository 
-2. scan qr code
-3. uplode qr code your forked repo
-4. make deploy link
-5. deploy using your link 💖
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Contact My Main Owner
+ <p align="center">
+
+  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94704227534?text=Hey_Netha_🤍" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
 
-THANAKS FOR USNING SEON-MD
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center"> 
+</h2>
+
+`Thanks To,me 😅`
+
+
+
+***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
