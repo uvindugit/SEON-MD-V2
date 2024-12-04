@@ -1,5 +1,5 @@
 <div align="center">
-```NETHU-MD WHATSAPP USER BOT CREATED BY Sadiya Tech & Sanju Bro```
+SEON-MD WHATSAPP USER BOT CREATED BY Sadiya Tech & Sanju Bro
 
 <div align="center">
     <b>SEON-MS USER BOT</b>
