@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
 <a href="https://github.com/SEON-MD">
-    <img src="[https://telegra.ph/file/7f0d7a04a30a602307e3d.jpg](https://i.ibb.co/SQR4bCd/20241128-154521.jpg" width="700px">
+    <img src="https://telegra.ph/file/7f0d7a04a30a602307e3d.jpg](https://i.ibb.co/SQR4bCd/20241128-154521.jpg" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
