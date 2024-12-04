@@ -1,23 +1,23 @@
-                      ```NETHU-MD WHATSAPP USER BOT CREATED BY Sadiya Tech & Sanju Bro```
+```NETHU-MD WHATSAPP USER BOT CREATED BY Sadiya Tech & Sanju Bro```
 
 <div align="center">
     <b>SEON-MS USER BOT</b>
 
 
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SEON+MD;CREATED+BY;Sadiya Tech;& Sanju Bro" alt="Typing SVG" /></a>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SEON+MD;CREATED+BY;Sadiya Tech & Sanju Bro" alt="Typing SVG" /></a>   
 </p> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
-<a href="https://github.com/Nethmikakaushalyaherath">
+<a href="https://github.com/SEON-MD">
     <img src="https://telegra.ph/file/7f0d7a04a30a602307e3d.jpg" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-`NETHU-MD` whatsapp bot is,
+`SEON-MD` whatsapp bot is,
 
-      NETHU-MD යනු ඔබට පහසුවෙන් හැසිරවිය හැකි Bot වරයෙකි.
+      SEON-MD යනු ඔබට පහසුවෙන් හැසිරවිය හැකි Bot වරයෙකි.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
