@@ -21,30 +21,30 @@
 
 <p align="center">
 
-  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VagCogPGufJ3kZWjsW3A" target="_blank">
+  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VagDCZdH5JLr7Yd6Wz24" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <p align="center">
-<a href="https://github.com/Nethmikakaushalyaherath/NETHU-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://github.com/SEON-MD/SEON-MD-V1/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
       
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://pair-web-public.koyeb.app//"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### DEPLOY HEROKU
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nethmikakaushalyaherath/NETHU-MD)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SEON-MD/SEON-MD-V1)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Contact My Main Owner
  <p align="center">
 
-  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94704227534?text=Hey_Netha_🤍" target="_blank">
+  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94742195461?text=Hey_Sadiya_Tech_🤍" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -54,7 +54,7 @@
 <h2 align="center"> 
 </h2>
 
-`Thanks To,me 😅`
+`Thanks To, Sanjuwa 😅`
 
 
 
