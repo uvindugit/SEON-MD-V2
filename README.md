@@ -1,7 +1,9 @@
 <div align="center">
     <b>SEON-MD USER BOT</b>
 
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=VAJIRA+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
+</p>
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SEON+MD;CREATED+BY;Sadiya Tech & Sanjuwa" alt="Typing SVG" /></a>   
 </p> 
@@ -13,9 +15,46 @@
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-`SEON-MD` whatsapp bot is,
 
-      SEON-MD යනු ඔබට පහසුවෙන් හැසිරවිය හැකි Bot වරයෙකි.
+<p align="center">
+
+  <a href="https://github.com/SEON-MD/SEON-MD-V1">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJIRA_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  
+  </a>
+  <a href="https://github.com/SEON-MD/SEON-MD-V1/fork">
+    <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA_MD?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/SEON-MD/SEON-MD-V1/stargazers">
+    <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA_MD?style=social">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SEON-MD/SEON-MD-V1">
+    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA_MD?color=purple&label=Repo%20Size&style=plastic">
+
+  </a>
+  <a href="https://github.com/SEON-MD/SEON-MD-V1">
+    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA_MD?color=purple&label=License&style=plastic">
+
+  </a>
+  <a href="https://github.com/SEON-MD/SEON-MD-V1">
+    <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA_MD?color=purple&label=Javascript&style=plastic">
+
+  </a>
+  <a href="https://github.com/SEON-MD/SEON-MD-V1">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
+
+  </a>
+  </p>
+ <p align="center">
+  <a href="https://github.com/SEON-MD/SEON-MD-V1">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
+
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
