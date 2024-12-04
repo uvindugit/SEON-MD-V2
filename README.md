@@ -1,5 +1,5 @@
 <div align="center">
-    <b>SEON-MS USER BOT</b>
+    <b>SEON-MD USER BOT</b>
 
 
 <div align="left">
