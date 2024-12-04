@@ -20,8 +20,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-<a href="https://whatsapp.com/channel/0029VagDCZdH5JLr7Yd6Wz24"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
-  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VagDCZdH5JLr7Yd6Wz24" target="_blank">
+<a href="https://whatsapp.com/channel/0029VagDCZdH5JLr7Yd6Wz24"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="WhatsApp Supported Channel" width="350" target="_blank"></a>
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <p align="center">
