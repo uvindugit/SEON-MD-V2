@@ -1,5 +1,5 @@
 <div align="center">
-    <b>SEON-MD USER BOT</b>
+# SEON-MD USER BOT</b>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
