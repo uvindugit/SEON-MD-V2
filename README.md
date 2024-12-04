@@ -21,8 +21,7 @@
 
 <p align="center">
 <a href="https://whatsapp.com/channel/0029VagDCZdH5JLr7Yd6Wz24"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="logo=whatsapp&WhatsApp Supported Channel" width="350" target="_blank"></a>
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+    
   <p align="center">
 <a href="https://github.com/SEON-MD/SEON-MD-V1/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
