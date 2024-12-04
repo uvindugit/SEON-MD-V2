@@ -11,13 +11,13 @@
       "required": true
     },  
 
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+    "GITHUB_USERNAME": {
+      "description": "Put your github username",
       "required": true
     },
     
-    "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+    "GITHUB_AUTH_TOKEN": {
+      "description": "Put your github auth token",
       "required": true
     }   
 },
