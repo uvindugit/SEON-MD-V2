@@ -130,7 +130,7 @@ jobs:
       run: npm start
 ```
 
-`Thanks To, Sanjuwa & Lithuka & 😅`
+`Thanks To, Sanjuwa & Lithuka 😅`
 
 <div align="center">
 SEON-MD WHATSAPP USER BOT CREATED BY SEON-TEAM(ST)
