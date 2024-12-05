@@ -18,39 +18,39 @@
 <p align="center">
 
   <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJIRA_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEON-MD%2FSEON-MD-V1&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
   <a href="https://github.com/SEON-MD/SEON-MD-V1/fork">
-    <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA_MD?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/SEON-MD/SEON-MD-V1?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/SEON-MD/SEON-MD-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA_MD?style=social">
+    <img src="https://img.shields.io/github/stars/SEON-MD/SEON-MD-V1?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA_MD?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/SEON-MD/SEON-MD-V1?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA_MD?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/SEON-MD/SEON-MD-V1?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA_MD?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/SEON-MD/SEON-MD-V1?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Sadiya Tech&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
   <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
+    <img src="https://img.shields.io/badge/OUR%20%20%20SEON-MD%20TEAM-purple&style=plastic">
 
   </a>
 </p>
