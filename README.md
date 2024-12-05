@@ -50,7 +50,7 @@
   </p>
  <p align="center">
   <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://img.shields.io/badge/OUR%20%20%20SEON-MD%20TEAM-purple&style=plastic">
+    <img src="https://img.shields.io/badge/OUR%20%20%20SEON%20TEAM(ST)-purple&style=plastic">
 
   </a>
 </p>
@@ -130,7 +130,7 @@ jobs:
       run: npm start
 ```
 
-`Thanks To, Sanjuwa 😅`
+`Thanks To, Sanjuwa & Lithuka & 😅`
 
 <div align="center">
-SEON-MD WHATSAPP USER BOT CREATED BY Sadiya Tech & Sanju Bro
+SEON-MD WHATSAPP USER BOT CREATED BY SEON-TEAM(ST)
