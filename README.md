@@ -59,7 +59,7 @@
 
 <p align="center">
 
-
+### Fork Repo
  <p align="center">  
 <a href="https://github.com/SEON-MD/SEON-MD-V1/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   
@@ -74,7 +74,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### DEPLOY HEROKU
+### DEPLOY
 
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SEON-MD/SEON-MD-V1)
  
