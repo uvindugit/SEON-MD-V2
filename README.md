@@ -78,7 +78,7 @@
 
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SEON-MD/SEON-MD-V1)
  
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/template/JU8S7i?referralCode=QH04C-)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/template/MTHtDw)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
