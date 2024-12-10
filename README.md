@@ -60,6 +60,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+   
 ### Fork repo
 <a href="https://github.com/SEON-MD/SEON-MD-V1/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   
@@ -129,6 +130,5 @@ jobs:
 
 `Thanks To, Sanjuwa & Lithuka 😅`
 
-<div align="center">
 SEON-MD WHATSAPP USER BOT CREATED BY SEON-TEAM(ST)
 </div>
