@@ -2,7 +2,7 @@
 <h1>SEON-MD USER BOT</h1>
 
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="50rem">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SEON+MD;CREATED+BY;Sadiya Tech & Sanjuwa" alt="Typing SVG" /></a>   
 </p> 
@@ -69,8 +69,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### LOGON WHATSAPP
-<a href="https://seon-md-pair-05db37f2d10c.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
+### LOGIN WHATSAPP
+<a href="https://seon-md-pair-20fd326dc063.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
