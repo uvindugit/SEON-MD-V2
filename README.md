@@ -57,10 +57,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-
-### Fork Repo
- <p align="center">  
+<p align="center">  
+   
+### Fork repo
 <a href="https://github.com/SEON-MD/SEON-MD-V1/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   
 <div>
