@@ -84,6 +84,8 @@
 <a aria-label="Owner WhatsApp" href="https://wa.me/+94742195461?text=Hey_Sadiya_Tech_🤍" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
+<br>
 <a href="https://whatsapp.com/channel/0029VagDCZdH5JLr7Yd6Wz24"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="logo=whatsapp&WhatsApp Supported Channel" width="350" target="_blank"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
