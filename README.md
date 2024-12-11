@@ -61,8 +61,8 @@
 
 <div align="center">
 
-### Visit Site
-<a href="https://seon-md-official.netlify.app/"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="logo=whatsapp&WEBSITE" width="350" target="_blank"></a>
+### Visit Website
+<a href="https://seon-md-official.netlify.app/"><img src="https://img.shields.io/badge/Website-blue" alt="" width="350" target="_blank"></a>
 
 ### Fork repo
 <a href="https://github.com/SEON-MD/SEON-MD-V1/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
