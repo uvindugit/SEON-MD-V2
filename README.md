@@ -62,7 +62,7 @@
 <div align="center">
 
 ### Visit Website
-<a href="https://whatsapp.com/channel/0029VagDCZdH5JLr7Yd6Wz24"><img src="https://img.shields.io/badge/WEBSITE-blue" alt="logo=whatsapp&WhatsApp Supported Channel" width="350" target="_blank"></a>
+<a href="https://seon-md-official.netlify.app/"><img src="https://img.shields.io/badge/SEON-MD%20Website-blue" alt="" width="350" target="_blank"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
