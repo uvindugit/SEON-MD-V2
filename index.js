@@ -87,6 +87,13 @@ mek.message = (getContentType(mek.message) === 'ephemeralMessage') ? mek.message
 if (mek.key && mek.key.remoteJid === 'status@broadcast' && await get("AUTO_READ_STATUS") === "true"){
 await conn.readMessages([mek.key])
 }
+//===============================================
+const oo = await get("MODE")
+let up = `*SEON-MD connected successful ✅📎*
+${oo}
+ *A Multi Device Whatsapp Bot Creat By Sadiya🛁🍭*`;
+await conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/SQR4bCd/20241128-154521.jpg` }, caption: up })
+//=========================
 const prefix = await get("RREFIX");
 const m = sms(conn, mek)
 const type = getContentType(mek.message)
@@ -117,13 +124,6 @@ const reply = (teks) => {
 conn.sendMessage(from, { text: teks }, { quoted: mek })
 }
 
-//===============================================
-const oo = await get("MODE")
-let up = `*SEON-MD connected successful ✅📎*
-${oo}
- *A Multi Device Whatsapp Bot Creat By Sadiya🛁🍭*`;
-await conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/SQR4bCd/20241128-154521.jpg` }, caption: up })
-//============================================
 conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               let mime = '';
               let res = await axios.head(url)
