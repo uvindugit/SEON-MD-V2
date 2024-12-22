@@ -52,7 +52,7 @@
   </p>
  <p align="center">
   <a href="https://github.com/SEON-MD/SEON-MD-V2">
-    <img src="https://img.shields.io/badge/OUR%20%20%20Dark%20Cyber%20Maker-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Dark%20Cyber%20Maker-purple&style=plastic">
 
   </a>
 </p>
