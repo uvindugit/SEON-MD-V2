@@ -1,58 +1,58 @@
 <div align="center">
-<h3>SEON-MD USER BOT</h3>
+<h3>SEON MD V2 USER BOT</h3>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
    
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SEON+MD;CREATED+BY;Sadiya Tech & Sanjuwa" alt="Typing SVG" /></a>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SEON+MD+V2;CREATED+BY;Sadiya Tech & Sanjuwa" alt="Typing SVG" /></a>   
 </p> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
-<a href="https://github.com/SEON-MD">
-    <img src="https://i.ibb.co/SQR4bCd/20241128-154521.jpg" width="700px">
+<a href="https://github.com/SEON-MD-V2">
+    <img src="https://i.ibb.co/6Hx9Zkf/SEON-MD-V2.png" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="center">
 
-  <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEON-MD%2FSEON-MD-V1&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  <a href="https://github.com/SEON-MD/SEON-MD-V2">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEON-MD%2FSEON-MD-V2&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
 <di
-  <a href="https://github.com/SEON-MD/SEON-MD-V1/fork">
-    <img src="https://img.shields.io/github/forks/SEON-MD/SEON-MD-V1?label=Fork&style=social">
+  <a href="https://github.com/SEON-MD/SEON-MD-V2/fork">
+    <img src="https://img.shields.io/github/forks/SEON-MD/SEON-MD-V2?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/SEON-MD/SEON-MD-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/SEON-MD/SEON-MD-V1?style=social">
+  <a href="https://github.com/SEON-MD/SEON-MD-V2/stargazers">
+    <img src="https://img.shields.io/github/stars/SEON-MD/SEON-MD-V2?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://img.shields.io/github/repo-size/SEON-MD/SEON-MD-V1?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/SEON-MD/SEON-MD-V2">
+    <img src="https://img.shields.io/github/repo-size/SEON-MD/SEON-MD-V2?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://img.shields.io/github/license/SEON-MD/SEON-MD-V1?color=purple&label=License&style=plastic">
+  <a href="https://github.com/SEON-MD/SEON-MD-V2">
+    <img src="https://img.shields.io/github/license/SEON-MD/SEON-MD-V2?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://img.shields.io/github/languages/top/SEON-MD/SEON-MD-V1?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/SEON-MD/SEON-MD-V2">
+    <img src="https://img.shields.io/github/languages/top/SEON-MD/SEON-MD-V2?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/SEON-MD/SEON-MD-V1">
+  <a href="https://github.com/SEON-MD/SEON-MD-V2">
     <img src="https://img.shields.io/static/v1?label=Author&message=Sadiya Tech&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/SEON-MD/SEON-MD-V1">
-    <img src="https://img.shields.io/badge/OUR%20%20%20SEON%20TEAM(ST)-purple&style=plastic">
+  <a href="https://github.com/SEON-MD/SEON-MD-V2">
+    <img src="https://img.shields.io/badge/OUR%20%20%20Dark%20Cyber%20Maker-purple&style=plastic">
 
   </a>
 </p>
@@ -67,19 +67,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Fork repo
-<a href="https://github.com/SEON-MD/SEON-MD-V1/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://github.com/SEON-MD/SEON-MD-V2/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### LOGIN WHATSAPP
-<a href="https://seon-md-pair-20fd326dc063.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://seon-md-pair-ff9b3759e9a3.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### DEPLOY
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SEON-MD/SEON-MD-V1)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SEON-MD/SEON-MD-V2)
  
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/template/MTHtDw)
 
@@ -136,7 +136,7 @@ jobs:
       run: npm start
 ```
 
-`Thanks To, Sanjuwa & Lithuka 😅`
+`Thanks To, Sanjuwa & Lithika 😅`
 
-SEON-MD WHATSAPP USER BOT CREATED BY SEON-TEAM(ST)
+SEON-MD WHATSAPP USER BOT CREATED BY Dark Cyber Maker
 </div>
