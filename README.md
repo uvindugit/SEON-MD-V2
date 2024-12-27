@@ -71,10 +71,8 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### Github Auth Token
-<a href="https://github.com/SEON-MD/SEON-MD-V2/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" width="250"></a>
+<a href="https://github.com/settings/token" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" width="250"></a>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
