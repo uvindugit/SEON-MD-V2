@@ -72,7 +72,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Github Auth Token
-<a href="https://github.com/settings/tokens" target="blank"><img align="center" src="https://i.ibb.co/Zmg0Shh/20241227-145400.png" alt="Github Auth Token" height="112" width="175vw" /></a>
+<a href="https://github.com/settings/tokens" target="blank"><img align="center" src="https://i.ibb.co/Zmg0Shh/20241227-145400.png" alt="Github Auth Token" width="175vw" /></a>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
