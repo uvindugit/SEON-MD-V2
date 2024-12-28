@@ -28,30 +28,30 @@
     
   </a>
   <a href="https://github.com/Sadiya-Tech22/SEON-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/SEON-MD/SEON-MD-V2?style=social">
+    <img src="https://img.shields.io/github/stars/Sadiya-Tech22/SEON-MD?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEON-MD/SEON-MD-V2">
-    <img src="https://img.shields.io/github/repo-size/SEON-MD/SEON-MD-V2?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD">
+    <img src="https://img.shields.io/github/repo-size/Sadiya-Tech22/SEON-MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/SEON-MD/SEON-MD-V2">
-    <img src="https://img.shields.io/github/license/SEON-MD/SEON-MD-V2?color=purple&label=License&style=plastic">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD">
+    <img src="https://img.shields.io/github/license/Sadiya-Tech22/SEON-MD?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/SEON-MD/SEON-MD-V2">
-    <img src="https://img.shields.io/github/languages/top/SEON-MD/SEON-MD-V2?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD">
+    <img src="https://img.shields.io/github/languages/top/Sadiya-Tech22/SEON-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/SEON-MD/SEON-MD-V2">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD">
     <img src="https://img.shields.io/static/v1?label=Author&message=Sadiya Tech&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/SEON-MD/SEON-MD-V2">
+  <a href="https://github.com/Sadiya-Tech22/SEON-MD">
     <img src="https://img.shields.io/badge/Dark%20Cyber%20Maker-purple&style=plastic">
 
   </a>
@@ -67,7 +67,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Fork repo
-<a href="https://github.com/SEON-MD/SEON-MD-V2/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="310" /></a>
+<a href="https://github.com/Sadiya-Tech22/SEON-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="310" /></a>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -84,7 +84,7 @@
 
 ### DEPLOY
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SEON-MD/SEON-MD-V2)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadiya-Tech22/SEON-MD)
  
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/template/MTHtDw)
 
