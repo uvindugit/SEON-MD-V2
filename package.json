@@ -1,6 +1,6 @@
 {
   "name": "SEON-MD",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "A WhatsApp bot created by sadiya",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@dark-yasiya/imgbb.js": "0.0.1",
+    "@dark-yasiya/imgbb.js": "latest",
     "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
     "pino": "^7.0.5",
     "pm2": "^5.2.0",
@@ -25,9 +25,9 @@
     "megajs": "^1.1.0",
     "vm": "^0.1.0",
     "qrcode-terminal": "^0.12.0",
-    "yt-search": "2.12.1",
-    "api-dylux": "1.8.5",
-    "wa-sticker-formatter": "^4.3.2",
-    "@sl-code-lords/movie-api": "1.0.0"
+    "api-dylux": "latest",
+    "wa-sticker-formatter": "latest",
+    "@sl-code-lords/movie-api": "latest",
+    "@dark-yasiya/yt-dl.js": "latest"
   }
 }
